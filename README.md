@@ -10,11 +10,11 @@
 ### About me 🔍  
 👋 I'm Itay, a front-end programmer on a journey of continuous learning and growth.
 
-🚀 Equipped with vast knowledge in Html, Css, Scss and Java Script , I exel in creating solutions to complex problems. Whether it's designing efficient algorithms or architecting optimized websites , I'm always up for the challenge.
+🚀 Equipped with vast knowledge in Html, Css, Scss and Java Script , I exel in creating solutions to complex problems. Whether it's transforming complex design ideas to functional wesites or architecting optimized websites , I'm always up for the challenge.
 
-💡 Beyond just coding, I'm deeply committed to understanding the intricacies of software development. From mastering design patterns to staying updated with the latest industry trends, I strive to expand my knowledge and skill set every day.
+💡 Beyond just coding, I'm deeply interested in the intricacies of software development. From design patterns to the latest industry trends, I strive to expand my knowledge and skill set every day and share it with other people.
 
-💬 Collaboration fuels my creativity, and I love being part of dynamic teams where ideas flow freely. With excellent communication skills and a collaborative mindset, I thrive in environments where collective success is celebrated.  
+💬 Collaboration inspires my creativity, and I flourish in vibrant teams where ideas are freely exchanged. With excellent communication skills and a team-oriented approach, I thrive in environments that celebrate shared achievements.
   
 
 <br/>  
@@ -23,7 +23,7 @@
 ## More...  
 <table><tr><td valign="top" width="50%">
 
-- 💻 When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing my knowledge with the community. I believe in the power of giving back and paying it forward in the ever-evolving tech landscape.  
+- 💻 When I'm not coding, you can find me exploring new technologies, creating and contributing to progects. or sharing my knowledge with the community.  
   
 
 - 🌟 Continuous improvement is my mantra. I'm not just content with being good I aim to be exceptional. Every project is an opportunity to push boundaries, innovate, and deliver solutions that exceed expectations.  
