@@ -8,7 +8,7 @@
 
 
 ### About me 🔍  
-👋 I'm Itay, a front-end programmer on a journey of continuous learning and growth.
+👋 I'm Itay, a front-end programmer on a journey of continuous learning and growth.With a deep passion for learning and sharing my knowledge.
 
 🚀 Equipped with vast knowledge in Html, Css, Scss and Java Script , I exel in creating solutions to complex problems. Whether it's transforming complex design ideas to functional wesites or architecting optimized websites , I'm always up for the challenge.
 
@@ -77,6 +77,6 @@
 ###
 <br/>  
 <br/>  
-<br/>  
+<br/>
 <br />
 <br />
