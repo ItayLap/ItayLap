@@ -2,7 +2,6 @@
 
 <br/>  
 
-
 # <div align="center">Hello, and welcome to my profile!</div>  
   
 
